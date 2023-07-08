@@ -19,6 +19,9 @@ Resolução de exercícios online relacionados aos conteúdos abordados módulo 
 
 ![Exercício 1 Evaluate Division](/Evaluate%20Division/assets/Captura%20de%20tela%20de%202023-05-13%2008-38-02.png)
 
+#### Vídeo de explicação
+[Vídeo de explicação](/Evaluate%20Division/assets/video1.mp4.mp4)
+
 ### Instalação
 
 **Linguagem**: C++<br>
